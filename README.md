@@ -6,7 +6,7 @@
 <div align="center">
     <br>
     <a href="https://github.com/USERNAME/PROJECT_NAME">
-        <img src="readmae-icon.svg" alt="Logo" width="300px">
+        <img src="readme-icon.svg" alt="Logo" width="300px">
     </a>
 
 <h1>TITLE</h1>
