@@ -45,13 +45,6 @@
 
 <br>
 
-<div>
-    <!-- LICENSE -->
-    <img class="chip" alt="Lines" src="https://img.shields.io/tokei/lines/github/ajd1776/GITHUB-README-ULTRA?style=flat-square"></a>
-    <img class="chip" alt="Code Size" src="https://img.shields.io/github/languages/code-size/ajd1776/GITHUB-README-ULTRA?style=flat-square"></a>
-    <img class="chip" alt="Files" src="https://img.shields.io/github/directory-file-count/ajd1776/GITHUB-README-ULTRA?style=flat-square"></a>
-</div>
-
 </div> <!-- DIV to CENTER all content inside --> 
 <!---------------------------------------------------------------------------------------------------------------------->
 
